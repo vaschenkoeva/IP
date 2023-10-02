@@ -1,7 +1,7 @@
-h3 { color: #4682B4 ; font-family:Georgia}
-body {font-family: Georgia; background-color: #B0C4DE; color: #fff}
+h3,h2 { color: #4682B4 ; font-family:Georgia}
+body {font-family: Georgia; background-color: #B0C4DE; color: #fff; font-size:20pt }
 section {
   float: right;
-  margin: 0 1.0%;
-  width: 30%;
+  margin: 0 0.5%;
+  width: 40%;
 }
